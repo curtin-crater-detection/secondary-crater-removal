@@ -1,6 +1,6 @@
 # asci
 
-_ref: Lagain, A., Servis, K., Benedix, G.K., Norman, C. and Bland, P. (2020) Model Age Derivation of Large Martian Impact Craters, using automatic crater counting methods. Submitted to Earth and Planetary Science Letters (24/08/2020)_
+_ref: Lagain, A., Servis, K., Benedix, G.K., Norman, C., Anderson, S. and Bland, P. (2020) Model Age Derivation of Large Martian Impact Craters, using automatic crater counting methods. Accepted to Earth and Space Science (27/12/2020)_
 
 This repository contains an ArcMap Python Toolbox which removes secondary craters from a crater detection map.
 
